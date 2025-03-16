@@ -4,7 +4,7 @@ Action description
 
 This action can help overcome the following barriers: 
 
-```{tags} power imbalance, company policies
+```{tags} power imbalance, budgeting, self-care
 ```
 
 ## Recommendations
