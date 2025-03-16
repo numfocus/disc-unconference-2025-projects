@@ -15,7 +15,9 @@ extensions = [
     "sphinx_design",
     "sphinx_book_theme",
     "sphinx_jupyterbook_latex",
+    "sphinx_tags",
 ]
+suppress_warnings = ["etoc.toctree"]
 #language = os.environ.get("WEBSITE_LANGUAGE", "en")
 #locale_dirs = ["../locales"]
 gettext_uuid = True
@@ -78,3 +80,6 @@ pygments_style = "sphinx"
 suppress_warnings = ["myst.domains"]
 use_jupyterbook_latex = True
 use_multitoc_numbering = True
+tags_create_tags = True
+tags_extension = ["md"]
+tags_create_badges = False
