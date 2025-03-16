@@ -1,3 +1,4 @@
 jupyter-book
 jupyterlab
 sphinx-intl
+sphinx-tags

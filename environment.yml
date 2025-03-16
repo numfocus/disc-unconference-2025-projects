@@ -4,5 +4,6 @@ channels:
 dependencies:
   - jupyter-book
   - jupyterlab
+  - sphinx-tags
   - pip:
     - sphinx-intl
