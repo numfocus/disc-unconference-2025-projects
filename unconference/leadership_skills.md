@@ -181,7 +181,7 @@ Actions that can help overcome this barrier are listed in
 
 Most EDIA initiatives begin with unpaid volunteer work; strategies should be sought to take care of those who want to lead these spaces so that they are sustainable over time. Geopolitical changes can lead to a decline in participation, which can lead to the abandonment or closure of initiatives, so it is important to ensure that leadership is not solitary and promotes rest and self-care. 
 
-Contributing to and maintaining an open source project or community presents many challenges, described alongside this one, with many of them being systemic issues. This means that we are often working against the system, and consequently we can also struggle to find allies (both within and outside the projects/communities). Volunteers in general, of which open source contributors are generally a subset, are particularly prone to mental health issues like burnout [TODO: link to unconf online project about OSS mental health]. For example, you do not find allies to join or support you and after a time, you cannot fight the fight anymore
+Contributing to and maintaining an open source project or community presents many challenges, described alongside this one, with many of them being systemic issues. This means that we are often working against the system, and consequently we can also struggle to find allies (both within and outside the projects/communities). Volunteers in general, of which open source contributors are generally a subset, are particularly prone to mental health issues like burnout. For example, you do not find allies to join or support you and after a time, you cannot fight the fight anymore
 
 Actions that can help overcome this barrier are listed in
 

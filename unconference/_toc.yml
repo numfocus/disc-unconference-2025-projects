@@ -9,5 +9,5 @@ chapters:
   - file: connecting_open_science_projects.md
   - file: leadership_skills.md
     sections:
-    - file: action_items/invite_talk.md
+    - file: action_items/mentoring.md
     - file: action_items/funding_transparency.md
