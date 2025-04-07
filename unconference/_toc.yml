@@ -7,14 +7,7 @@ chapters:
   - file: navigating-funding-landscape.md
   - file: creating_an_open_mentorship_initiative.md
   - file: connecting_open_science_projects.md
-#     sections:
-#     - file: mentoring_onboarding_checklist.md
-#     - file: mentoring_meeting_template.md
-#   - file: Project_taxonomy_recommendations.md
-#   - file: methodologies_collecting_data.md
-#     sections:
-#     - file: methodologies_collecting_data_nps.md
-#     - file: methodologies_collecting_data_demografic.md
-#     - file: methodologies_collecting_data_looking_forward.md
-#   - file: volunteer-support-guide.md
-#   - file: DEI_handbook.md
+  - file: leadership_skills.md
+    sections:
+    - file: action_items/mentoring.md
+    - file: action_items/funding_transparency.md
