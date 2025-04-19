@@ -157,7 +157,7 @@ Actions that can help overcome this barrier are listed in
 
 Actions that can help overcome this barrier are listed in
 
-```{tags} socioeconomic
+```{tags} socioeconomic context
 ```
 
 ### Geopolitical Context
@@ -173,7 +173,7 @@ Actions that can help overcome this barrier are listed in
 
 Actions that can help overcome this barrier are listed in
 
-```{tags} geopolitical
+```{tags} geopolitical context
 ```
 
 
