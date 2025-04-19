@@ -1,0 +1,16 @@
+# Have EDIA items allocated in the budget
+
+Action description
+
+This action can help overcome the following barriers: 
+
+```{tags} power imbalance, budgeting, self-care
+```
+
+## Recommendations
+
+Recommendations and tips to put the action in practice
+
+## Success application examples
+
+X project did it and could see Y and Z positive outcomes.
