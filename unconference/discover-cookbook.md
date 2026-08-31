@@ -3,7 +3,7 @@
 ```{article-info}
 :avatar: images/disc-icon.jpg
 :avatar-outline: muted
-:author: "[Andy Terrel](https://github.com/aterrel), [Seun Olufemi](https://github.com/seunolufemi123), [Daniel S. Katz](https://github.com/danielskatz), [Adeyinka Oresanya](https://github.com/adeyinkaoresanya),  [Ariane Djeupang](https://github.com/Arya-ne), [Melissa Weber Mendonça](https://github.com/melissawm), [Riva Quiroga](https://github.com/rivaquiroga), [Emma Saroyan](https://github.com/emmasaroyan)"
+:author: "[Andy Terrel](https://github.com/aterrel), [Seun Olufemi](https://github.com/seunolufemi123), [Daniel S. Katz](https://github.com/danielskatz), [Adeyinka Oresanya](https://github.com/adeyinkaoresanya),  [Ariane Djeupang](https://github.com/Arya-AD), [Melissa Weber Mendonça](https://github.com/melissawm), [Riva Quiroga](https://github.com/rivaquiroga), [Emma Saroyan](https://github.com/emmasaroyan)"
 :class-container: sd-p-2 sd-outline-muted sd-rounded-1
 ```
 
